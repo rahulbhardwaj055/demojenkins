@@ -1,1 +1,1 @@
-# demojenkins Poll testing is ongoing 
+# demojenkins Pollscm hooks are ongoing 
